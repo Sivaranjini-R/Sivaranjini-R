@@ -3,7 +3,7 @@ I'm deeply interested in **Data Analytics** and how data can drive smarter decis
 I'm looking forward to collaborate with organizations or teams where I can apply my skills, contribute to projects, and grow as a data professional.
 
 ## 🛠️ Skills & Tools
-- **Languages**: SQL, Python 
+- **Languages**: SQL, Python ( Pandas,Numpy,Matplotlib)
 - **Data Visualization**: Power BI ( Dax,POwer Query)
 - **Spreadsheets**: Microsoft Excel (Formulas, PivotTables, Charts)
 - **Database**: MySQL, MS SQL Server
